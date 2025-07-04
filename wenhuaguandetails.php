@@ -11,20 +11,20 @@
 
 <body>
    <br />
-<b>Notice</b>:  Undefined index: name in <b>/home/a0006/public_html/Mid-Term/wenhuaguandetails.php</b> on line <b>17</b><br />
+<b>Notice</b>:  Undefined index: name in <b>wenhuaguandetails.php</b> on line <b>17</b><br />
 <br />
-<b>Notice</b>:  Undefined index: email in <b>/home/a0006/public_html/Mid-Term/wenhuaguandetails.php</b> on line <b>18</b><br />
+<b>Notice</b>:  Undefined index: email in <b>wenhuaguandetails.php</b> on line <b>18</b><br />
 <br />
-<b>Notice</b>:  Undefined index: phone in <b>/home/a0006/public_html/Mid-Term/wenhuaguandetails.php</b> on line <b>19</b><br />
+<b>Notice</b>:  Undefined index: phone in <b>wenhuaguandetails.php</b> on line <b>19</b><br />
 <br />
-<b>Notice</b>:  Undefined index: date in <b>/home/a0006/public_html/Mid-Term/wenhuaguandetails.php</b> on line <b>20</b><br />
+<b>Notice</b>:  Undefined index: date in <b>wenhuaguandetails.php</b> on line <b>20</b><br />
 <br />
-<b>Notice</b>:  Undefined index: date1 in <b>/home/a0006/public_html/Mid-Term/wenhuaguandetails.php</b> on line <b>21</b><br />
+<b>Notice</b>:  Undefined index: date1 in <b>wenhuaguandetails.php</b> on line <b>21</b><br />
 <br />
-<b>Notice</b>:  Undefined index: type in <b>/home/a0006/public_html/Mid-Term/wenhuaguandetails.php</b> on line <b>22</b><br />
+<b>Notice</b>:  Undefined index: type in <b>wenhuaguandetails.php</b> on line <b>22</b><br />
 <br />
-<b>Notice</b>:  Undefined index: number in <b>/home/a0006/public_html/Mid-Term/wenhuaguandetails.php</b> on line <b>23</b><br />
-<center><a href="http://120.107.152.110/~a0006/Mid-Term/wenhuaguandetails.html">抱歉請重試</a><br></body>
+<b>Notice</b>:  Undefined index: number in <b>wenhuaguandetails.php</b> on line <b>23</b><br />
+<center><a href="wenhuaguandetails.html">抱歉請重試</a><br></body>
 
 
 </html>
