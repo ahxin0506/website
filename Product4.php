@@ -133,7 +133,7 @@ body {
 <body>
 <div align="center" class="style25">
 <div align="center">
-    <p align="center" class="style27"><span class="style1"><a href="desktop.html"><img src="title.gif" alt="" width="150" height="150" /></a></span></p>
+    <p align="center" class="style27"><span class="style1"><a href="index.html"><img src="title.gif" alt="" width="150" height="150" /></a></span></p>
   <table width="100%" style="border-bottom:3px #000000 solid;" cellpadding="10" border="0">
     <tr>
       <td width="25%" height="47"><div align="center" class="style18"><a href="about.html" style="text-decoration:none;"><font face="標楷體" color="#000000">關於小鎮文化</font><br></a></div></td>
@@ -147,8 +147,8 @@ body {
   <form id="form1" name="form1" method="post" action="">
   <div align="center" class="style9">結果：
    <br />
-<b>Notice</b>:  Undefined index: product_quantity in <b>/home/a0006/public_html/Mid-Term/Product4.php</b> on line <b>155</b><br />
-<center>下單失敗<br><a href = "http://120.107.152.110/~a0006/Mid-Term/molirenwen.html">再試一次</a><br>  </div>
+<b>Notice</b>:  Undefined index: product_quantity in <b>Product4.php</b> on line <b>155</b><br />
+<center>下單失敗<br><a href = "molirenwen.html">再試一次</a><br>  </div>
   </form>
 </div>
   <p class="style13"></p>
