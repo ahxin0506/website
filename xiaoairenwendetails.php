@@ -11,19 +11,19 @@
 
 <body>
    <br />
-<b>Notice</b>:  Undefined index: name in <b>/home/a0006/public_html/Mid-Term/xiaoairenwendetails.php</b> on line <b>17</b><br />
+<b>Notice</b>:  Undefined index: name in <b>xiaoairenwendetails.php</b> on line <b>17</b><br />
 <br />
-<b>Notice</b>:  Undefined index: email in <b>/home/a0006/public_html/Mid-Term/xiaoairenwendetails.php</b> on line <b>18</b><br />
+<b>Notice</b>:  Undefined index: email in <b>xiaoairenwendetails.php</b> on line <b>18</b><br />
 <br />
-<b>Notice</b>:  Undefined index: phone in <b>/home/a0006/public_html/Mid-Term/xiaoairenwendetails.php</b> on line <b>19</b><br />
+<b>Notice</b>:  Undefined index: phone in <b>xiaoairenwendetails.php</b> on line <b>19</b><br />
 <br />
-<b>Notice</b>:  Undefined index: date in <b>/home/a0006/public_html/Mid-Term/xiaoairenwendetails.php</b> on line <b>20</b><br />
+<b>Notice</b>:  Undefined index: date in <b>xiaoairenwendetails.php</b> on line <b>20</b><br />
 <br />
-<b>Notice</b>:  Undefined index: date1 in <b>/home/a0006/public_html/Mid-Term/xiaoairenwendetails.php</b> on line <b>21</b><br />
+<b>Notice</b>:  Undefined index: date1 in <b>=xiaoairenwendetails.php</b> on line <b>21</b><br />
 <br />
-<b>Notice</b>:  Undefined index: type in <b>/home/a0006/public_html/Mid-Term/xiaoairenwendetails.php</b> on line <b>22</b><br />
+<b>Notice</b>:  Undefined index: type in <b>=xiaoairenwendetails.php</b> on line <b>22</b><br />
 <br />
-<b>Notice</b>:  Undefined index: number in <b>/home/a0006/public_html/Mid-Term/xiaoairenwendetails.php</b> on line <b>23</b><br />
+<b>Notice</b>:  Undefined index: number in <b>=xiaoairenwendetails.php</b> on line <b>23</b><br />
 INSERT INTO HOTEL (name, email, phone, checkin, checkout, roomtype, room, number) VALUES ('','','','','','','','');<center><a href="http://120.107.152.110/~a0006/Mid-Term/xiaoairenwendetails.html">抱歉請重試</a><br></body>
 
 
